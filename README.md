@@ -20,3 +20,9 @@ Technologies Used
 HTML
 CSS (Sass)
 JavaScript (React)
+
+---
+
+Challenge!
+I’ve built a portfolio website using core web technologies to showcase my skills and projects.
+Feel free to fork the repository and experiment by making improvements or adding new features. here: https://github.com/sohaibdevv/my-first-portfolio-website
